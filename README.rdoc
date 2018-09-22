@@ -1,5 +1,7 @@
 == README
 
+Trail app to test Rails development tools.  See more at The Odin Project at https://www.theodinproject.com/lessons/your-first-rails-application.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
